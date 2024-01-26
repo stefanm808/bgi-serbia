@@ -1,6 +1,6 @@
 # BGISerbia
 
-Thisscript performs data analysis and visualization on a dataset related to gene expression. Here's an overview of its main components and functionality:
+This script performs data analysis and visualization on a dataset related to gene expression. Here's an overview of its main components and functionality:
 
 Library Imports: The script imports libraries such as Pandas, NumPy, Matplotlib, and several from scikit-learn (PCA, DBSCAN, OneHotEncoder) for data manipulation, analysis, and visualization.
 
